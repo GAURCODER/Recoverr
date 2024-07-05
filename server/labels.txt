@@ -1,0 +1,21 @@
+0 Bottles
+1 Calculator
+2 Cards
+3 Clothes
+4 Drawings
+5 Earbuds
+6 Hard Disc
+7 Headphone
+8 Keyboard
+9 Keys
+10 Lamps
+11 Laptop
+12 Mobile Phones
+13 Mouse
+14 Notebook
+15 Smartphone
+16 Steel Bottle
+17 Wallet
+18 Watch
+19 Locks
+20 Pen
